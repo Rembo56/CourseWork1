@@ -22,6 +22,7 @@ public class Main {
         employees[1]=Petrov;
         employees[2]=Sidorov;
         employees[3]=D;
+        employees[4]=A;
 
         System.out.println("Сумма затрат на зарплату на месяц: "+Employee.salarySume(employees));
         System.out.println("Минимальная зарплата: "+Employee.salaryMin(employees));
